@@ -1,0 +1,9 @@
+blake2b-256 of the exact bytes served by each raw URL
+
+PFMS_Treasury_Withdrawal_Proposal.pdf (12683792 bytes)
+https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/b155dcd64f15c38d4fd5daa865fc29b9a8d1105c/PFMS_Treasury_Withdrawal_Proposal.pdf
+e5567890fa27fbe07d1e9cdae0280daa397ecdfe1401fd0f1406c7e231bd7546
+
+PFMS_Work_Packages_and_Milestones.pdf (616348 bytes)
+https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/5dfc3f20f27d199ab0c2e085c910546a8c4c21ac/PFMS_Work_Packages_and_Milestones.pdf
+c86524f595b0357a89c3942e70148953c49c96a813ba38b773dfd8fee84bf647
