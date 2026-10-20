@@ -5,8 +5,8 @@ https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/14a95fcb0b7f52
 d0dde6fe37dae6d5f6d80c6a01d080a931b3923d51a3d97aa182f4609c2c7234
 
 PFMS_Work_Packages_and_Milestones.pdf (616348 bytes)
-https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/5dfc3f20f27d199ab0c2e085c910546a8c4c21ac/PFMS_Work_Packages_and_Milestones.pdf
-c86524f595b0357a89c3942e70148953c49c96a813ba38b773dfd8fee84bf647
+https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/914e75f9fe2d2a6cdfe8599af7279b8e3d062fcf/PFMS_Work_Packages_and_Milestones.pdf
+ff3185904c456951f757b9fd3a31e3471bbfc12e7d666f68ae474563a8b356a9
 
 PFMS_Summary_Page.pdf (61086 bytes)
 https://raw.githubusercontent.com/Trivolvetech-PFMS/pfms-proposal/26bd244f654c17f54c16a48961630b569e7de847/PFMS_Summary_Page.pdf
